@@ -1,0 +1,6 @@
+framework module Pods_DOITtest {
+  umbrella header "Pods-DOITtest-umbrella.h"
+
+  export *
+  module * { export * }
+}
